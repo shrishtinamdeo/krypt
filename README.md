@@ -98,8 +98,6 @@ npm run dev
 - **Netlify**: Alternative hosting option
 - **GitHub Pages**: For static hosting
 
-Detailed deployment guides in [DEPLOYMENT.md](DEPLOYMENT.md)
-
 ## 📊 Project Structure 
 ```
 project_web3.0/
